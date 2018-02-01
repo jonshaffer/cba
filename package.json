@@ -1,0 +1,19 @@
+{
+  "name": "cba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonshaffer/cba.git"
+  },
+  "author": "",
+  "license": "See ./LICENSE",
+  "bugs": {
+    "url": "https://github.com/jonshaffer/cba/issues"
+  },
+  "homepage": "https://github.com/jonshaffer/cba#readme"
+}

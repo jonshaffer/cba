@@ -1,0 +1,3 @@
+[submodule "cba-monolith"]
+	path = cba-monolith
+	url = git@github.com:jonshaffer/cba-monolith.git
